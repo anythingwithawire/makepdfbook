@@ -12,7 +12,9 @@ the final pdf.
 
 Bookmarking is done by stolen code, but is very slow and would be better down by pdfmarks, maybe.
 
-This extremely rough still band I need to come back to it and tidy up so much crap, some of it 
+Warning : this extremely rough with many poor practices.
+
+I still need to come back to it and tidy up so much crap, some of it 
 fundemental but it met an immediate need I need, needs a shitload of tidy up.
 
-I
+
