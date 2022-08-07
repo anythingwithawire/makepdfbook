@@ -1,0 +1,441 @@
++"TOC"|0
++"20210827 C1016 Data Sheets Rev1"|1
+++"Plant Area 2141"|2
++++"Flame Detector 2141-BE-0811 etc"|3
+++++"DONKEY SLAYER"|4
+++++"Flame Detector 2141-BE-0816 Rev1"|6
+++++"Flame Detector 2141-BE-0821 Rev1"|8
+++++"Flame Detector 2141-BE-0826 Rev1"|10
+++++"Flame Detector 2141-BE-0831 Rev1"|12
+++++"Flame Detector 2141-BE-0841 Rev1"|14
+++++"Flame Detector 2141-BE-0846 Rev1"|16
+++++"Flame Detector 2141-BE-0851 Rev1"|18
+++++"Flame Detector 2141-BE-0856 Rev1"|20
+++++"Flame Detector 2141-BE-0861 Rev1"|22
+++++"Flame Detector D-LX_201 UA"|24
++++"Pressure Transmitter 2141-PIT-0771"|178
+++++"2141-PIT-0771 Calibration"|179
+++++"2141-PIT-0771 CombustionAir"|181
+++++"2141-PIT-0771 Safety"|185
+++++"Pressure Transmitter 2141-PIT-0771 rev1"|189
+++++"Pressure Transmitter Rosemount 3051Supplier Datasheet"|191
+++++"manual-rosemount-3051"|299
++++"Pressure Indicator 2141-PI-0812A etc"|515
+++++"Pressure Indicator 2141-PI-0812A Rev1"|516
+++++"Pressure Indicator 2141-PI-0817A Rev1"|517
+++++"Pressure Indicator 2141-PI-0822A Rev1"|518
+++++"Pressure Indicator 2141-PI-0827A Rev1"|519
+++++"Pressure Indicator 2141-PI-0832A Rev1"|520
+++++"Pressure Indicator 2141-PI-0842A Rev1"|521
+++++"Pressure Indicator 2141-PI-0847A Rev1"|522
+++++"Pressure Indicator 2141-PI-0852A Rev1"|523
+++++"Pressure Indicator 2141-PI-0857A Rev1"|524
+++++"Pressure Indicator 2141-PI-0862A Rev1"|525
+++++"WIKA Pressure Gauge 632.50"|526
++++"Pressure Transmitter 2141-PIT-0813 etc"|530
+++++"2141-PIT-0813 Burner1Gas"|531
+++++"2141-PIT-0813 Calibration"|535
+++++"2141-PIT-0813 Safety"|537
+++++"2141-PIT-0818 Burner2Gas"|541
+++++"2141-PIT-0818 Calibration"|545
+++++"2141-PIT-0818 Safety"|547
+++++"2141-PIT-0823 Burner3Gas"|551
+++++"2141-PIT-0823 Calibration"|555
+++++"2141-PIT-0823 Safety"|557
+++++"2141-PIT-0828 Burner4Gas"|561
+++++"2141-PIT-0828 Calibration"|565
+++++"2141-PIT-0828 Safety"|567
+++++"2141-PIT-0833 Burner5Gas"|571
+++++"2141-PIT-0833 Calibration"|575
+++++"2141-PIT-0833 Safety"|577
+++++"2141-PIT-0843 Burner6Gas"|581
+++++"2141-PIT-0843 Calibration"|585
+++++"2141-PIT-0843 Safety"|587
+++++"2141-PIT-0848 Burner7Gas"|591
+++++"2141-PIT-0848 Calibration"|595
+++++"2141-PIT-0848 Safety"|597
+++++"2141-PIT-0853 Burner8Gas"|601
+++++"2141-PIT-0853 Calibration"|605
+++++"2141-PIT-0853 Safety"|607
+++++"2141-PIT-0858 Burner9Gas"|611
+++++"2141-PIT-0858 Calibration"|615
+++++"2141-PIT-0858 Safety"|617
+++++"2141-PIT-0863 Burner10Gas"|621
+++++"2141-PIT-0863 Calibration"|625
+++++"2141-PIT-0863 Safety"|627
+++++"Pressure Transmitter 2141-PIT-0813 rev1"|631
+++++"Pressure Transmitter 2141-PIT-0818 rev1"|633
+++++"Pressure Transmitter 2141-PIT-0823 rev1"|635
+++++"Pressure Transmitter 2141-PIT-0828 rev1"|637
+++++"Pressure Transmitter 2141-PIT-0833 rev1"|639
+++++"Pressure Transmitter 2141-PIT-0843 rev1"|641
+++++"Pressure Transmitter 2141-PIT-0848 rev1"|643
+++++"Pressure Transmitter 2141-PIT-0853 rev1"|645
+++++"Pressure Transmitter 2141-PIT-0858 rev1"|647
+++++"Pressure Transmitter 2141-PIT-0863 rev1"|649
+++++"manual-rosemount-3051"|651
++++"Safety Shut-off Valves 2141-BSV-0813 etc"|867
+++++"Safety Shut-off Valve 2141-BSV-0813 rev1"|868
+++++"Safety Shut-off Valve 2141-BSV-0818 rev1"|869
+++++"Safety Shut-off Valve 2141-BSV-0823 rev1"|870
+++++"Safety Shut-off Valve 2141-BSV-0828 rev1"|871
+++++"Safety Shut-off Valve 2141-BSV-0833 rev1"|872
+++++"Safety Shut-off Valve 2141-BSV-0843 rev1"|873
+++++"Safety Shut-off Valve 2141-BSV-0848 rev1"|874
+++++"Safety Shut-off Valve 2141-BSV-0853 rev1"|875
+++++"Safety Shut-off Valve 2141-BSV-0858 rev1"|876
+++++"Safety Shut-off Valve 2141-BSV-0863 rev1"|877
+++++"VAS_VCS shut-off valves"|878
++++"Pressure Transmitter 2141-PIT-0781"|945
+++++"2141-PIT-0781 Calibration"|946
+++++"2141-PIT-0781 CombustionAir"|948
+++++"2141-PIT-0781 Safety"|952
+++++"Pressure Transmitter 2141-PIT-0781 rev1"|956
+++++"Pressure Transmitter Rosemount 3051Supplier Datasheet"|958
+++++"manual-rosemount-3051"|1066
++++"Pressure Regulator 2141-PCV-0812 etc"|1282
+++++"GOVERNORS Pressure regulator"|1283
+++++"Pressure Regulator 2141-PCV-0812 rev1"|1291
+++++"Pressure Regulator 2141-PCV-0817 rev1"|1292
+++++"Pressure Regulator 2141-PCV-0822 rev1"|1293
+++++"Pressure Regulator 2141-PCV-0827 rev1"|1294
+++++"Pressure Regulator 2141-PCV-0832 rev1"|1295
+++++"Pressure Regulator 2141-PCV-0842 rev1"|1296
+++++"Pressure Regulator 2141-PCV-0847 rev1"|1297
+++++"Pressure Regulator 2141-PCV-0852 rev1"|1298
+++++"Pressure Regulator 2141-PCV-0857 rev1"|1299
+++++"Pressure Regulator 2141-PCV-0862 rev1"|1300
++++"Inlet Filter 2141"|1301
+++++"GFK Filter"|1302
+++++"Inlet Filter 2141 rev1"|1318
++++"Pressure Switch 2141-PSL-0812 etc"|1319
+++++"Pressure Switch 2141-PSL-0812 rev1"|1320
+++++"Pressure Switch 2141-PSL-0817 rev1"|1321
+++++"Pressure Switch 2141-PSL-0822 rev1"|1322
+++++"Pressure Switch 2141-PSL-0827 rev1"|1323
+++++"Pressure Switch 2141-PSL-0832 rev1"|1324
+++++"Pressure Switch 2141-PSL-0842 rev1"|1325
+++++"Pressure Switch 2141-PSL-0847 rev1"|1326
+++++"Pressure Switch 2141-PSL-0852 rev1"|1327
+++++"Pressure Switch 2141-PSL-0857 rev1"|1328
+++++"Pressure Switch 2141-PSL-0862 rev1"|1329
+++++"tba_dg_t_usa (1)"|1330
++++"Burner with Spark Ignitor 2141-BU-001 etc"|1336
+++++"Burner ThermJet_TJ0200_1"|1337
+++++"Burner ThermJet_TJ0200_2"|1341
+++++"Burner with Spark Ignitor 2141-BU-001 Rev1"|1365
+++++"Burner with Spark Ignitor 2141-BU-002 Rev1"|1366
+++++"Burner with Spark Ignitor 2141-BU-003 Rev1"|1367
+++++"Burner with Spark Ignitor 2141-BU-004 Rev1"|1368
+++++"Burner with Spark Ignitor 2141-BU-005 Rev1"|1369
+++++"Burner with Spark Ignitor 2141-BU-006 Rev1"|1370
+++++"Burner with Spark Ignitor 2141-BU-007 Rev1"|1371
+++++"Burner with Spark Ignitor 2141-BU-008 Rev1"|1372
+++++"Burner with Spark Ignitor 2141-BU-009 Rev1"|1373
+++++"Burner with Spark Ignitor 2141-BU-010 Rev1"|1374
+++++"C1016-101_0 Equipment Desc"|1375
++++"Ignition Transformer 2141-BX-0811 etc"|1377
+++++"Ignition Transformer 2141-BX-0811 Rev1"|1378
+++++"Ignition Transformer 2141-BX-0816 Rev1"|1379
+++++"Ignition Transformer 2141-BX-0821 Rev1"|1380
+++++"Ignition Transformer 2141-BX-0826 Rev1"|1381
+++++"Ignition Transformer 2141-BX-0831 Rev1"|1382
+++++"Ignition Transformer 2141-BX-0841 Rev1"|1383
+++++"Ignition Transformer 2141-BX-0846 Rev1"|1384
+++++"Ignition Transformer 2141-BX-0851 Rev1"|1385
+++++"Ignition Transformer 2141-BX-0856 Rev1"|1386
+++++"Ignition Transformer 2141-BX-0861 Rev1"|1387
+++++"Ignition Transformer"|1388
++++"Adjustable Limiting Orifice 2141"|1402
+++++"VMV_Limiting gas orifice"|1403
++++"Pressure Indicator 2141-PI-0812B etc"|1422
+++++"Pressure Indicator 2141-PI-0812B Rev1"|1423
+++++"Pressure Indicator 2141-PI-0817B Rev1"|1424
+++++"Pressure Indicator 2141-PI-0822B Rev1"|1425
+++++"Pressure Indicator 2141-PI-0827B Rev1"|1426
+++++"Pressure Indicator 2141-PI-0832B Rev1"|1427
+++++"Pressure Indicator 2141-PI-0842B Rev1"|1428
+++++"Pressure Indicator 2141-PI-0847B Rev1"|1429
+++++"Pressure Indicator 2141-PI-0852B Rev1"|1430
+++++"Pressure Indicator 2141-PI-0857B Rev1"|1431
+++++"Pressure Indicator 2141-PI-0862B Rev1"|1432
+++++"WIKA Pressure Gauge 632.50"|1433
++++"Gauge valve 2141"|1437
+++++"Pressure gauge valve 2141 Rev1"|1438
+++++"Zetco 4430"|1439
++++"Ratio Regulator 2141-FCV-0812 etc"|1441
+++++"GIK Ratio Regulator"|1442
+++++"Ratio Regulator 2141-FCV-0812 rev1"|1457
+++++"Ratio Regulator 2141-FCV-0817 rev1"|1458
+++++"Ratio Regulator 2141-FCV-0822 rev1"|1459
+++++"Ratio Regulator 2141-FCV-0827 rev1"|1460
+++++"Ratio Regulator 2141-FCV-0832 rev1"|1461
+++++"Ratio Regulator 2141-FCV-0842 rev1"|1462
+++++"Ratio Regulator 2141-FCV-0847 rev1"|1463
+++++"Ratio Regulator 2141-FCV-0852 rev1"|1464
+++++"Ratio Regulator 2141-FCV-0857 rev1"|1465
+++++"Ratio Regulator 2141-FCV-0862 rev1"|1466
++++"Pressure Switch 2141-PSH-0812 etc"|1467
+++++"Pressure Switch 2141-PSH-0812 rev1"|1468
+++++"Pressure Switch 2141-PSH-0817 rev1"|1469
+++++"Pressure Switch 2141-PSH-0822 rev1"|1470
+++++"Pressure Switch 2141-PSH-0827 rev1"|1471
+++++"Pressure Switch 2141-PSH-0832 rev1"|1472
+++++"Pressure Switch 2141-PSH-0842 rev1"|1473
+++++"Pressure Switch 2141-PSH-0847 rev1"|1474
+++++"Pressure Switch 2141-PSH-0852 rev1"|1475
+++++"Pressure Switch 2141-PSH-0857 rev1"|1476
+++++"Pressure Switch 2141-PSH-0862 rev1"|1477
+++++"tba_dg_t_usa (1)"|1478
++++"Safety Shut-off Valves 2141-BSV-0812A+B etc"|1484
+++++"Safety Shut-off Valve 2141-BSV-0812A+B rev1"|1485
+++++"Safety Shut-off Valve 2141-BSV-0817A+B rev1"|1487
+++++"Safety Shut-off Valve 2141-BSV-0822A+B rev1"|1489
+++++"Safety Shut-off Valve 2141-BSV-0827A+B rev1"|1491
+++++"Safety Shut-off Valve 2141-BSV-0832A+B rev1"|1493
+++++"Safety Shut-off Valve 2141-BSV-0842A+B rev1"|1495
+++++"Safety Shut-off Valve 2141-BSV-0847A+B rev1"|1497
+++++"Safety Shut-off Valve 2141-BSV-0852A+B rev1"|1499
+++++"Safety Shut-off Valve 2141-BSV-0857A+B rev1"|1501
+++++"Safety Shut-off Valve 2141-BSV-0862A+B rev1"|1503
+++++"VAS_VCS shut-off valves"|1505
++++"Pressure Indicator 2141-PI-0812C etc"|1572
+++++"Pressure Indicator 2141-PI-0812C Rev1"|1573
+++++"Pressure Indicator 2141-PI-0817C Rev1"|1574
+++++"Pressure Indicator 2141-PI-0822C Rev1"|1575
+++++"Pressure Indicator 2141-PI-0827C Rev1"|1576
+++++"Pressure Indicator 2141-PI-0832C Rev1"|1577
+++++"Pressure Indicator 2141-PI-0842C Rev1"|1578
+++++"Pressure Indicator 2141-PI-0847C Rev1"|1579
+++++"Pressure Indicator 2141-PI-0852C Rev1"|1580
+++++"Pressure Indicator 2141-PI-0857C Rev1"|1581
+++++"Pressure Indicator 2141-PI-0862C Rev1"|1582
+++++"WIKA Pressure Gauge 632.50"|1583
++++"Gas Hand Ball Valve 2141"|1587
+++++"Low-Pressure Gas Valve 2141 rev1"|1588
+++++"Zetco 4430"|1589
++++"Petes Plug 2141"|1591
+++++"Copamate-Test-Plug-Brochure"|1592
+++++"Main Gas Test Plug 2141 rev1"|1596
++++"Air Control Valve 2141-DM-005A ZSO_ ZT_ ZSC0071A etc"|1597
+++++"Actuator IC50-30W"|1598
+++++"BVA Actuated Valves"|1632
+++"Plant Area 2142"|1677
++++"Pressure Indicator 2142-PI-0812C etc"|1678
+++++"Pressure Indicator 2142-PI-0812C Rev1"|1679
+++++"Pressure Indicator 2142-PI-0817C Rev1"|1680
+++++"Pressure Indicator 2142-PI-0822C Rev1"|1681
+++++"Pressure Indicator 2142-PI-0827C Rev1"|1682
+++++"Pressure Indicator 2142-PI-0832C Rev1"|1683
+++++"Pressure Indicator 2142-PI-0842C Rev1"|1684
+++++"Pressure Indicator 2142-PI-0847C Rev1"|1685
+++++"Pressure Indicator 2142-PI-0852C Rev1"|1686
+++++"Pressure Indicator 2142-PI-0857C Rev1"|1687
+++++"Pressure Indicator 2142-PI-0862C Rev1"|1688
+++++"WIKA Pressure Gauge 632.50"|1689
++++"Pressure Transmitter 2142-PIT-0771"|1693
+++++"2142-PIT-0771 Calibration"|1694
+++++"2142-PIT-0771 CombustionAir"|1696
+++++"2142-PIT-0771 Safety"|1700
+++++"Pressure Transmitter 2142-PIT-0771 rev1"|1704
+++++"Pressure Transmitter Rosemount 3051Supplier Datasheet"|1706
+++++"manual-rosemount-3051"|1814
++++"Gas Hand Ball Valve 2142"|2030
+++++"Low-Pressure Gas Valve 2142 rev1"|2031
+++++"Zetco 4430"|2032
++++"Inlet Filter 2142"|2034
+++++"GFK Filter"|2035
+++++"Inlet Filter 2142 rev1"|2051
++++"Pressure Indicator 2142-PI-0812B etc"|2052
+++++"Pressure Indicator 2142-PI-0817B Rev1"|2053
+++++"Pressure Indicator 2142-PI-0822B Rev1"|2054
+++++"Pressure Indicator 2142-PI-0827B Rev1"|2055
+++++"Pressure Indicator 2142-PI-0832B Rev1"|2056
+++++"Pressure Indicator 2142-PI-0842B Rev1"|2057
+++++"Pressure Indicator 2142-PI-0847B Rev1"|2058
+++++"Pressure Indicator 2142-PI-0852B Rev1"|2059
+++++"Pressure Indicator 2142-PI-0857B Rev1"|2060
+++++"Pressure Indicator 2142-PI-0862B Rev1"|2061
+++++"WIKA Pressure Gauge 632.50"|2062
++++"Pressure Regulator 2142-PCV-0812 etc"|2066
+++++"GOVERNORS Pressure regulator"|2067
+++++"Pressure Regulator 2142-PCV-0812 rev1"|2075
+++++"Pressure Regulator 2142-PCV-0817 rev1"|2076
+++++"Pressure Regulator 2142-PCV-0822 rev1"|2077
+++++"Pressure Regulator 2142-PCV-0827 rev1"|2078
+++++"Pressure Regulator 2142-PCV-0832 rev1"|2079
+++++"Pressure Regulator 2142-PCV-0842 rev1"|2080
+++++"Pressure Regulator 2142-PCV-0847 rev1"|2081
+++++"Pressure Regulator 2142-PCV-0852 rev1"|2082
+++++"Pressure Regulator 2142-PCV-0857 rev1"|2083
+++++"Pressure Regulator 2142-PCV-0862 rev1"|2084
++++"Ratio Regulator 2142-FCV-0812 etc"|2085
+++++"GIK Ratio Regulator"|2086
+++++"Ratio Regulator 2142-FCV-0812 rev1"|2101
+++++"Ratio Regulator 2142-FCV-0817 rev1"|2102
+++++"Ratio Regulator 2142-FCV-0822 rev1"|2103
+++++"Ratio Regulator 2142-FCV-0827 rev1"|2104
+++++"Ratio Regulator 2142-FCV-0832 rev1"|2105
+++++"Ratio Regulator 2142-FCV-0842 rev1"|2106
+++++"Ratio Regulator 2142-FCV-0847 rev1"|2107
+++++"Ratio Regulator 2142-FCV-0852 rev1"|2108
+++++"Ratio Regulator 2142-FCV-0857 rev1"|2109
+++++"Ratio Regulator 2142-FCV-0862 rev1"|2110
++++"Pressure Switch 2142-PSL-0812 etc"|2111
+++++"Pressure Switch 2142-PSL-0812 rev1"|2112
+++++"Pressure Switch 2142-PSL-0817 rev1"|2113
+++++"Pressure Switch 2142-PSL-0822 rev1"|2114
+++++"Pressure Switch 2142-PSL-0827 rev1"|2115
+++++"Pressure Switch 2142-PSL-0832 rev1"|2116
+++++"Pressure Switch 2142-PSL-0842 rev1"|2117
+++++"Pressure Switch 2142-PSL-0847 rev1"|2118
+++++"Pressure Switch 2142-PSL-0852 rev1"|2119
+++++"Pressure Switch 2142-PSL-0857 rev1"|2120
+++++"Pressure Switch 2142-PSL-0862 rev1"|2121
+++++"tba_dg_t_usa (1)"|2122
++++"Pressure Transmitter 2142-PIT-0781"|2128
+++++"2142-PIT-0781 Calibration"|2129
+++++"2142-PIT-0781 CombustionAir"|2131
+++++"2142-PIT-0781 Safety"|2135
+++++"Pressure Transmitter 2142-PIT-0781 rev1"|2139
+++++"Pressure Transmitter Rosemount 3051Supplier Datasheet"|2141
+++++"manual-rosemount-3051"|2249
++++"Pressure Transmitter 2142-PIT-0813 etc"|2465
+++++"2142-PIT-0813 Burner1Gas"|2466
+++++"2142-PIT-0813 Calibration"|2470
+++++"2142-PIT-0813 Safety"|2472
+++++"2142-PIT-0818 Burner2Gas"|2476
+++++"2142-PIT-0818 Calibration"|2480
+++++"2142-PIT-0818 Safety"|2482
+++++"2142-PIT-0823 Burner3Gas"|2486
+++++"2142-PIT-0823 Calibration"|2490
+++++"2142-PIT-0823 Safety"|2492
+++++"2142-PIT-0828 Burner4Gas"|2496
+++++"2142-PIT-0828 Calibration"|2500
+++++"2142-PIT-0828 Safety"|2502
+++++"2142-PIT-0833 Burner5Gas"|2506
+++++"2142-PIT-0833 Calibration"|2510
+++++"2142-PIT-0833 Safety"|2512
+++++"2142-PIT-0843 Burner6Gas"|2516
+++++"2142-PIT-0843 Calibration"|2520
+++++"2142-PIT-0843 Safety"|2522
+++++"2142-PIT-0848 Burner7Gas"|2526
+++++"2142-PIT-0848 Calibration"|2530
+++++"2142-PIT-0848 Safety"|2532
+++++"2142-PIT-0853 Burner8Gas"|2536
+++++"2142-PIT-0853 Calibration"|2540
+++++"2142-PIT-0853 Safety"|2542
+++++"2142-PIT-0858 Burner9Gas"|2546
+++++"2142-PIT-0858 Calibration"|2550
+++++"2142-PIT-0858 Safety"|2552
+++++"2142-PIT-0863 Burner10Gas"|2556
+++++"2142-PIT-0863 Calibration"|2560
+++++"2142-PIT-0863 Safety"|2562
+++++"Pressure Transmitter 2142-PIT-0813 rev1"|2566
+++++"Pressure Transmitter 2142-PIT-0818 rev1"|2568
+++++"Pressure Transmitter 2142-PIT-0823 rev1"|2570
+++++"Pressure Transmitter 2142-PIT-0828 rev1"|2572
+++++"Pressure Transmitter 2142-PIT-0833 rev1"|2574
+++++"Pressure Transmitter 2142-PIT-0843 rev1"|2576
+++++"Pressure Transmitter 2142-PIT-0848 rev1"|2578
+++++"Pressure Transmitter 2142-PIT-0853 rev1"|2580
+++++"Pressure Transmitter 2142-PIT-0858 rev1"|2582
+++++"Pressure Transmitter 2142-PIT-0863 rev1"|2584
+++++"manual-rosemount-3051"|2586
++++"Flame Detector 2142-BE-0811 etc"|2802
+++++"Flame Detector 2142-BE-0811 Rev1"|2803
+++++"Flame Detector 2142-BE-0816 Rev1"|2805
+++++"Flame Detector 2142-BE-0821 Rev1"|2807
+++++"Flame Detector 2142-BE-0826 Rev1"|2809
+++++"Flame Detector 2142-BE-0831 Rev1"|2811
+++++"Flame Detector 2142-BE-0841 Rev1"|2813
+++++"Flame Detector 2142-BE-0846 Rev1"|2815
+++++"Flame Detector 2142-BE-0851 Rev1"|2817
+++++"Flame Detector 2142-BE-0856 Rev1"|2819
+++++"Flame Detector 2142-BE-0861 Rev1"|2821
+++++"Flame Detector D-LX_201 UA"|2823
++++"Burner with Spark Ignitor 2142-BU-001 etc"|2977
+++++"Burner ThermJet_TJ0200_1"|2978
+++++"Burner ThermJet_TJ0200_2"|2982
+++++"Burner with Spark Ignitor 2142-BU-001 Rev1"|3006
+++++"Burner with Spark Ignitor 2142-BU-002 Rev1"|3007
+++++"Burner with Spark Ignitor 2142-BU-003 Rev1"|3008
+++++"Burner with Spark Ignitor 2142-BU-004 Rev1"|3009
+++++"Burner with Spark Ignitor 2142-BU-005 Rev1"|3010
+++++"Burner with Spark Ignitor 2142-BU-006 Rev1"|3011
+++++"Burner with Spark Ignitor 2142-BU-007 Rev1"|3012
+++++"Burner with Spark Ignitor 2142-BU-008 Rev1"|3013
+++++"Burner with Spark Ignitor 2142-BU-009 Rev1"|3014
+++++"Burner with Spark Ignitor 2142-BU-010 Rev1"|3015
+++++"C1016-101_0 Equipment Desc"|3016
++++"Safety Shut-off Valves 2142-BSV-0812A+B etc"|3018
+++++"Safety Shut-off Valve 2142-BSV-0812A+B rev1"|3019
+++++"Safety Shut-off Valve 2142-BSV-0817A+B rev1"|3021
+++++"Safety Shut-off Valve 2142-BSV-0822A+B rev1"|3023
+++++"Safety Shut-off Valve 2142-BSV-0827A+B rev1"|3025
+++++"Safety Shut-off Valve 2142-BSV-0832A+B rev1"|3027
+++++"Safety Shut-off Valve 2142-BSV-0842A+B rev1"|3029
+++++"Safety Shut-off Valve 2142-BSV-0847A+B rev1"|3031
+++++"Safety Shut-off Valve 2142-BSV-0852A+B rev1"|3033
+++++"Safety Shut-off Valve 2142-BSV-0857A+B rev1"|3035
+++++"Safety Shut-off Valve 2142-BSV-0862A+B rev1"|3037
+++++"VAS_VCS shut-off valves"|3039
++++"Adjustable Limiting Orifice 2142"|3106
+++++"VMV_Limiting gas orifice"|3107
++++"Air Control Valve 2142-DM-005A ZSO_ ZT_ ZSC0071A etc"|3126
+++++"Actuator IC50-30W"|3127
+++++"BVA Actuated Valves"|3161
++++"Gauge valve 2142"|3206
+++++"Pressure gauge valve 2142 Rev1"|3207
+++++"Zetco 4430"|3208
++++"Pressure Switch 2142-PSH-0812 etc"|3210
+++++"Pressure Switch 2142-PSH-0812 rev1"|3211
+++++"Pressure Switch 2142-PSH-0817 rev1"|3212
+++++"Pressure Switch 2142-PSH-0822 rev1"|3213
+++++"Pressure Switch 2142-PSH-0827 rev1"|3214
+++++"Pressure Switch 2142-PSH-0832 rev1"|3215
+++++"Pressure Switch 2142-PSH-0842 rev1"|3216
+++++"Pressure Switch 2142-PSH-0847 rev1"|3217
+++++"Pressure Switch 2142-PSH-0852 rev1"|3218
+++++"Pressure Switch 2142-PSH-0857 rev1"|3219
+++++"Pressure Switch 2142-PSH-0862 rev1"|3220
+++++"tba_dg_t_usa (1)"|3221
++++"Safety Shut-off Valves 2142-BSV-0813 etc"|3227
+++++"Safety Shut-off Valve 2142-BSV-0813 rev1"|3228
+++++"Safety Shut-off Valve 2142-BSV-0818 rev1"|3229
+++++"Safety Shut-off Valve 2142-BSV-0823 rev1"|3230
+++++"Safety Shut-off Valve 2142-BSV-0828 rev1"|3231
+++++"Safety Shut-off Valve 2142-BSV-0833 rev1"|3232
+++++"Safety Shut-off Valve 2142-BSV-0843 rev1"|3233
+++++"Safety Shut-off Valve 2142-BSV-0848 rev1"|3234
+++++"Safety Shut-off Valve 2142-BSV-0853 rev1"|3235
+++++"Safety Shut-off Valve 2142-BSV-0858 rev1"|3236
+++++"Safety Shut-off Valve 2142-BSV-0863 rev1"|3237
+++++"VAS_VCS shut-off valves"|3238
++++"Ignition Transformer 2142-BX-0811 etc"|3305
+++++"Ignition Transformer 2142-BX-0811 Rev1"|3306
+++++"Ignition Transformer 2142-BX-0816 Rev1"|3307
+++++"Ignition Transformer 2142-BX-0821 Rev1"|3308
+++++"Ignition Transformer 2142-BX-0826 Rev1"|3309
+++++"Ignition Transformer 2142-BX-0831 Rev1"|3310
+++++"Ignition Transformer 2142-BX-0841 Rev1"|3311
+++++"Ignition Transformer 2142-BX-0846 Rev1"|3312
+++++"Ignition Transformer 2142-BX-0851 Rev1"|3313
+++++"Ignition Transformer 2142-BX-0856 Rev1"|3314
+++++"Ignition Transformer 2142-BX-0861 Rev1"|3315
+++++"Ignition Transformer"|3316
++++"Pressure Indicator 2142-PI-0812A etc"|3330
+++++"Pressure Indicator 2142-PI-0812A Rev1"|3331
+++++"Pressure Indicator 2142-PI-0817A Rev1"|3332
+++++"Pressure Indicator 2142-PI-0822A Rev1"|3333
+++++"Pressure Indicator 2142-PI-0827A Rev1"|3334
+++++"Pressure Indicator 2142-PI-0832A Rev1"|3335
+++++"Pressure Indicator 2142-PI-0842A Rev1"|3336
+++++"Pressure Indicator 2142-PI-0847A Rev1"|3337
+++++"Pressure Indicator 2142-PI-0852A Rev1"|3338
+++++"Pressure Indicator 2142-PI-0857A Rev1"|3339
+++++"Pressure Indicator 2142-PI-0862A Rev1"|3340
+++++"WIKA Pressure Gauge 632.50"|3341
++++"Petes Plug 2142"|3345
+++++"Copamate-Test-Plug-Brochure"|3346
+++++"Main Gas Test Plug 2142 rev1"|3350
